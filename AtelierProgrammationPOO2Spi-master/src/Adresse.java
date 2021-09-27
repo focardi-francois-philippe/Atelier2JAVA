@@ -1,5 +1,3 @@
-package tp1.personnel;
-
 /*
  * University of Corsica
  * by Marie-Laure Nivet
@@ -127,5 +125,4 @@ public class Adresse {
 		result.append(ville);
 		return result.toString();
 	}
-	
 }
